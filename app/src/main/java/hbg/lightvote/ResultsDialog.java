@@ -39,9 +39,9 @@ public class ResultsDialog extends DialogFragment {
     private CharSequence[] buildResults(){
 
         CharSequence[] results = new CharSequence[4];
-        results[0] = "Green Votes: " + greenVotes;
+        results[0] = "Red Votes: " + redVotes;
         results[1] = "Yellow Votes: " + yellowVotes;
-        results[2] = "Red Votes: " + redVotes;
+        results[2] = "Green Votes: " + greenVotes;
         results[3] = "Score: " + getScore();
 
         return results;
