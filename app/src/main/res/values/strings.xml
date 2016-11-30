@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">LightVote</string>
     <string name="action_settings">Settings</string>
+    <string name="vote_toast">Thank you for voting!</string>
+    <string name="clear_toast">Cleared!</string>
+    <string name="results_title">Results</string>
+    <string name="ok">Okay</string>
 </resources>
